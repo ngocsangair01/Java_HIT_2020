@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600676662 source:e:\oop c++\arrayminmaxsort\sources.cpp
+	"header.h"
+	<iostream>
+
+1600676379 e:\oop c++\arrayminmaxsort\header.h
+
+1600676542 source:e:\oop c++\arrayminmaxsort\main.cpp
+	"header.h"
+	<iostream>
+
